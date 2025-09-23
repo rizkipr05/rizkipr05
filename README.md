@@ -18,7 +18,7 @@
 
   <!-- Typing welcome -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Welcome!;I'm+Muhammad+Rizki+Pratama;Software+Engineer+%7C+AI%2FML+Engineer+%7C" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Welcome!;I'm+Muhammad+Rizki+Pratama;Software+Engineer+%7C+AI%2FML+Engineer" alt="typing" />
   </p>
 
   <!-- Badges -->
@@ -86,17 +86,6 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black&labelColor=00FF00" />
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=black&labelColor=00FF00" />
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=00FF00" />
-</p>
-
----
-
-## 🐍 Contributions Fun
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
