@@ -18,7 +18,7 @@
 
   <!-- Typing welcome -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Welcome!;I'm+Muhammad+Rizki+Pratama;Software+Engineer+%7C+AI%2FML+Engineer" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Welcome!;I'm+Muhammad+Rizki+Pratama" alt="typing" />
   </p>
 
   <!-- Badges -->
