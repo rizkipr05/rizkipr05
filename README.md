@@ -1,7 +1,7 @@
 <!-- =========================================================
-  PROFILE README — Muhammad Rizki Pratama
+  PROFILE README — Muhammad Rizki Pratama (rizkipr05)
   Tips:
-  1) Rename repo persis dengan username GitHub agar tampil di Overview.
+  1) Repo harus bernama persis "rizkipr05" dan Public agar tampil di Overview.
   2) Pastikan gambar lokal (./img, ./gif) tersedia atau ganti pakai URL.
 ========================================================= -->
 
@@ -96,39 +96,22 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
 ---
 
 ## 🗂 Featured Projects
-> Ganti link & gambar sesuai repo kamu (atau gunakan pin-card di bawah).
+> Update link & nama repo sesuai proyekmu.
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/nlp-text-classifier">
+      <a href="https://github.com/rizkipr05/nlp-text-classifier">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkipr05&repo=nlp-text-classifier&theme=tokyonight" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/web-security-tool">
+      <a href="https://github.com/rizkipr05/web-security-tool">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkipr05&repo=web-security-tool&theme=tokyonight" />
       </a>
     </td>
   </tr>
 </table>
-
-<!-- Optional: custom cards with local images
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/project-1"><img src="./img/projects/project1.png" width="60%" alt="Project 1" /></a><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/project-2"><img src="./img/projects/project2.png" width="60%" alt="Project 2" /></a><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
-  </tr>
-</table>
--->
 
 ---
 
@@ -161,7 +144,7 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="Profile Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkipr05&theme=2077">
+    <img alt="Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkipr05&theme=2077">
   </a>
 </p>
 
@@ -183,4 +166,3 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
 - [LinkedIn](https://linkedin.com/in/your-linkedin-id)
 - [Email](mailto:rizki.qq05@gmail.com)
 - [Portfolio](https://your-portfolio.com)
-

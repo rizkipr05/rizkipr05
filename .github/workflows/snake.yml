@@ -5,8 +5,7 @@ on:
     - cron: "0 */12 * * *"   # update tiap 12 jam
   workflow_dispatch:          # bisa dijalankan manual
   push:
-    branches:
-      - main                  # jalan saat commit ke main
+    branches: [main]
 
 jobs:
   build:
@@ -20,7 +19,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-white.svg?palette=github-light
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
