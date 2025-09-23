@@ -95,26 +95,6 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
 
 ---
 
-## 🗂 Featured Projects
-> Update link & nama repo sesuai proyekmu.
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/rizkipr05/nlp-text-classifier">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkipr05&repo=nlp-text-classifier&theme=tokyonight" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/rizkipr05/web-security-tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkipr05&repo=web-security-tool&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🐍 Contributions Fun
 <p align="center">
   <picture>
