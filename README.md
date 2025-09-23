@@ -38,8 +38,6 @@
 
 ---
 
-# 👋 Hi, I'm Muhammad Rizki Pratama
-
 ## 🚀 About Me
 I am a *Software Engineer & AI/ML Engineer* with more than *3 years of experience* in *Web Development, Machine Learning, and Cyber Security*.  
 My focus is on building *scalable & maintainable applications*, developing **AI/ML solutions** (Deep Learning, NLP, Computer Vision), and exploring best practices in *application security & cloud-native systems*.  
