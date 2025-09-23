@@ -90,6 +90,17 @@ My focus is on building *scalable & maintainable applications*, developing **AI/
 
 ---
 
+## 🐍 Contributions Fun
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rizkipr05/rizkipr05/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📉 GitHub Stats
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app">
