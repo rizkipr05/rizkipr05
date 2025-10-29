@@ -39,7 +39,7 @@
 ---
 
 ## 🚀 About Me
-I am a *Software Engineer & AI/ML Engineer* with more than *3 years of experience* in *Web Development, Machine Learning, and Cyber Security*.  
+I am a *Software Engineer & AI/ML Engineer* with more than *3 years of experience* in *Web Development, Machine Learning.  
 My focus is on building *scalable & maintainable applications*, developing **AI/ML solutions** (Deep Learning, NLP, Computer Vision), and exploring best practices in *application security & cloud-native systems*.  
 
 🎯 My mission is to create digital solutions that are *intelligent, secure, and impactful* for many people.
