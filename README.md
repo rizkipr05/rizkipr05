@@ -24,7 +24,6 @@
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Software%20Engineer-Fullstack-1f6feb?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineer-7c3aed?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-dc2626?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-16a34a?style=for-the-badge" />
 
   <!-- Socials -->
@@ -39,7 +38,7 @@
 ---
 
 ## 🚀 About Me
-I am a *Software Engineer & AI/ML Engineer* with more than *3 years of experience* in *Web Development, Machine Learning.  
+I am a *Software Engineer & AI/ML Engineer* with more than *3 years of experience* in *Web Development, Machine Learning*.  
 My focus is on building *scalable & maintainable applications*, developing **AI/ML solutions** (Deep Learning, NLP, Computer Vision), and exploring best practices in *application security & cloud-native systems*.  
 
 🎯 My mission is to create digital solutions that are *intelligent, secure, and impactful* for many people.
